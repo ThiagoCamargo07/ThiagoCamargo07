@@ -1,4 +1,4 @@
-## Oiii eu sou o Thiago Camargo, criador de conteúdo de programação e tecnologia!
+## Opa,olá eu sou o Thiago Camargo, criador de conteúdo de programação e tecnologia!
 
 Atualmente estou cursando ciência da computação na Uninove (3/8) e fazendo cursos de programação a parte
 
