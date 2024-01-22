@@ -3,6 +3,10 @@
 Atualmente estou cursando ciência da computação na Uninove (3/8) e fazendo cursos de programação a parte.
 Busco experiencias e meu primeiro emprego na área !!
 
+Sempre estarei criando novos repositorios com projetos para exposição visivel para todos,obrigado e fiquem a vontade 
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
