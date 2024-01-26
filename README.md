@@ -6,7 +6,9 @@ Busco experiencias e meu primeiro emprego na área !!
 Sempre estarei criando novos repositorios com projetos para exposição visivel para todos,obrigado e fiquem a vontade 
 
 
-<div>Tecnologias do dia a dia</div>
+<div> ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+ </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
