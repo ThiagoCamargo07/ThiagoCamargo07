@@ -5,6 +5,8 @@ Busco experiencias e meu primeiro emprego na área !!
 
 Sempre estarei criando novos repositorios com projetos visiveis para todos,obrigado e bem vindos
 
+ ##
+
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
