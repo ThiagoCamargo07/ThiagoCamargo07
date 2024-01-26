@@ -5,7 +5,6 @@ Busco experiencias e meu primeiro emprego na área !!
 
 Sempre estarei criando novos repositorios com projetos para exposição visivel para todos,obrigado e fiquem a vontade 
 
- ## Tecnologias do dia a dia
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
