@@ -24,3 +24,5 @@ Sempre estarei criando novos repositorios com projetos visiveis para todos,obrig
   <a href="https://www.linkedin.com/in/thiago-camargo-7757142ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![qrcode](https://github.com/ThiagoCamargo07/ThiagoCamargo07/assets/153377602/454bec12-ce6d-4308-9ad5-18825f322fdf)
