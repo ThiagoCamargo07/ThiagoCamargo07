@@ -25,4 +25,3 @@ Sempre estarei criando novos repositorios com projetos visiveis para todos,obrig
   
 </div>
 
-![qrcode](https://github.com/ThiagoCamargo07/ThiagoCamargo07/assets/153377602/454bec12-ce6d-4308-9ad5-18825f322fdf)
