@@ -1,7 +1,7 @@
 ## Opa,olá meu nome é Thiago Ferreira Camargo, sou criador de conteúdo de programação e tecnologia!
 
 Atualmente estou cursando ciência da computação na Uninove (3/8) e fazendo cursos de programação a parte.
-Busco experiencias e meu primeiro emprego na área !!
+Busco experiências e meu primeiro emprego na área !!
 
 Sempre estarei criando novos repositorios com projetos visiveis para todos,obrigado e bem vindos
 
