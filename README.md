@@ -15,6 +15,8 @@ Sempre estarei criando novos repositorios com projetos visiveis para todos,obrig
 </div>
   
   ##
+  ![qrcode](https://github.com/ThiagoCamargo07/ThiagoCamargo07/assets/153377602/f0a278cc-d3b9-4ef7-83a0-6c6ab8b740ae)
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UC2azV80Eq8tQB3oqryag2YQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
