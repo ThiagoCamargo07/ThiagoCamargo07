@@ -1,6 +1,5 @@
-## Opa,olá meu nome é Thiago Ferreira Camargo, sou criador de conteúdo de programação e tecnologia!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Thiago+Ferreira+Camargo;tenho+19+anos+de+idade;sejam+bem+vindos+ao+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Thiago+Ferreira+Camargo;tenho+19+anos+de+idade;e+sou+criador+de+conteudo+de+programação+e+tecnologia!;sejam+bem+vindos+ao+meu+perfil)](https://git.io/typing-svg)
 
 
 Atualmente estou cursando ciência da computação na Uninove (3/8) e fazendo cursos de programação a parte.
