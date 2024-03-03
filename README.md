@@ -1,5 +1,8 @@
 ## Opa,olá meu nome é Thiago Ferreira Camargo, sou criador de conteúdo de programação e tecnologia!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Welcome+everyone+to+my+profile)](https://git.io/typing-svg)
+
+
 Atualmente estou cursando ciência da computação na Uninove (3/8) e fazendo cursos de programação a parte.
 Busco experiências e meu primeiro emprego na área !!
 
