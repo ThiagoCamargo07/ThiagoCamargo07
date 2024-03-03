@@ -1,12 +1,12 @@
 ## Opa,olá meu nome é Thiago Ferreira Camargo, sou criador de conteúdo de programação e tecnologia!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Welcome+everyone+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Thiago+Ferreira+Camargo;tenho+19+anos+de+idade;sejam+bem+vindos+ao+meu+perfil)](https://git.io/typing-svg)
 
 
 Atualmente estou cursando ciência da computação na Uninove (3/8) e fazendo cursos de programação a parte.
 Busco experiências e meu primeiro emprego na área !!
 
-Sempre estarei criando novos repositorios com projetos visiveis para todos,obrigado e bem vindos
+Sempre estarei criando novos repositorios com projetos visiveis para todos,obrigado e bem vindos novamente
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=compact&theme=dracula)
 
