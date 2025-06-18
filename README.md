@@ -1,13 +1,13 @@
-## Olaa,meu nome é Thiago Ferreria Camargo, tenho 20 anos de idade, sou Tecnico de informatica e criador de conteúdo de informatica,tecnologia e programação!!
+## Olaa,meu nome é Thiago Ferreria Camargo, tenho 21 anos de idade, sou Tecnico de informatica e criador de conteúdo de tecnologia e programação!!
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
 
 
-Atualmente estou cursando ciência da computação na Uninove (5/8) e fazendo cursos de programação e hardware a parte.
+Atualmente estou cursando ciência da computação (5/8) e fazendo cursos de programação e hardware a parte.
 Busco experiências e evolução na área !!
 
-Sempre estarei criando novos repositorios com projetos visiveis para todos, obrigado e bem vindos novamente
+Sempre estarei criando novos repositorios com projetos visiveis para todos, obrigado e bem vindos novamente !
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=compact&theme=dracula)
 
