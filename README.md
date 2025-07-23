@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
 
 
-Atualmente estou cursando ciência da computação (6/8) e fazendo cursos de programação e hardware a parte.
+Atualmente estou cursando ciência da computação (6/8), fazendo cursos de programação e informatica avançada a parte.
 Busco experiências e evolução na área !!
 
 Sempre estarei criando novos repositorios com projetos visiveis para todos, obrigado e bem vindos novamente !
