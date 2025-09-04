@@ -4,9 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
 
 
-Atualmente estou cursando ciência da computação (6/8), fazendo cursos de programação e informatica avançada a parte.
-Busco experiências e evolução na área !!
-
+Atuo como técnico de Suporte de TI, realizando instalações e monitoramentos de softwares, manutenções de hardwares e identificando problemas técnicos para implementar soluções eficazes. Além disso, desenvolvo sistemas desktop em Python voltados à automação de tarefas de suporte, otimizando processos e aumentando a eficiência operacional. 
 Sempre estarei criando novos repositorios com projetos visiveis para todos, obrigado e bem vindos novamente !
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=compact&theme=dracula)
