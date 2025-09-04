@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
 
 
-Técnico de suporte com experiência em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Também realizando desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
+Técnico de suporte com experiência em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Também, realizo desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
 Sempre estarei criando novos repositorios com projetos visiveis para todos, obrigado e bem vindos novamente !
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=compact&theme=dracula)
