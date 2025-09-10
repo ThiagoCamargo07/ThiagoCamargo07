@@ -9,7 +9,15 @@ Técnico de suporte com experiência em instalações e monitoramento de softwar
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Tiko-VsCode" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img align="center" alt="Tiko-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Tiko-VsCode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+  <img align="center" alt="Tiko-VsCode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+
+          
+          
+          
+  
 </div>
   
   ##
