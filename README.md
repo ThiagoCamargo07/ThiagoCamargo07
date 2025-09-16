@@ -1,4 +1,4 @@
-## Ola, meu nome é Thiago Ferreria Camargo, tenho 21 anos de idade, sou Tecnico de informatica e criador de conteúdo de tecnologia e programação!!
+## Ola, meu nome é Thiago Ferreria Camargo, tenho 21 anos de idade, sou Analista de T.I e criador de conteúdo de tecnologia e programação!!
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02C1ED&size=35&center=true&vCenter=true&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
