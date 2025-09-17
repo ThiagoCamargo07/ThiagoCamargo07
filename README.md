@@ -5,7 +5,8 @@
 
 Analista de suporte com experiência em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Além disso, atuo também com desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=compact&theme=tokyonight)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=dark&count_private=true&include_all_commits=true&token=PAT_1)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiko-VsCode" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
