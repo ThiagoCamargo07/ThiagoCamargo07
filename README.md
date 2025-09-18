@@ -5,9 +5,7 @@
 
 Analista de suporte com experiência em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Além disso, atuo também com desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCaamrgo07&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&hide=contribs,prs)
-
+ <img src="https://github.com/ThiagoCamargo07/ThiagoCamargo07/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 
 
 <div style="display: inline_block"><br>
