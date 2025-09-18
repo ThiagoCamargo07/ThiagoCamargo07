@@ -10,7 +10,7 @@ Analista de suporte com experiência em instalações e monitoramento de softwar
 <img align="center" alt="Tiko-VsCode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 </div>
 
-<img src="https://github.com/ThiagoCamargo07/ThiagoCamargo07/blob/main/dronee.gif" width="220px" alt="commit gif looping" />,  <img src="https://github.com/ThiagoCamargo07/ThiagoCamargo07/blob/main/IAAA.gif" width="270px" alt="commit gif looping" />
+<img src="https://github.com/ThiagoCamargo07/ThiagoCamargo07/blob/main/dronee.gif" width="220px" alt="commit gif looping" />,  <img src="https://github.com/ThiagoCamargo07/ThiagoCamargo07/blob/main/IAAA.gif" width="250px" alt="commit gif looping" />
  
 <div> 
   <a href="https://www.youtube.com/channel/UC2azV80Eq8tQB3oqryag2YQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
