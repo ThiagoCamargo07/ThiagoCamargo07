@@ -16,6 +16,13 @@ Analista de suporte com experiência em instalações e monitoramento de softwar
 </div>
 
 
+
+
+
+
+
+
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UC2azV80Eq8tQB3oqryag2YQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
