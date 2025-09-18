@@ -5,17 +5,7 @@
 
 Analista de suporte com experiência em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Além disso, atuo também com desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+  <img src="https://github.com/Fernanda-Kipper/Fernanda-Kipper/blob/main/commit-animation.gif" width="400px" alt="commit gif looping" />
 
 
 <div style="display: inline_block"><br>
