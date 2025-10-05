@@ -2,7 +2,7 @@
 
 Analista de suporte com experiência em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Além disso, atuo também com desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02C1ED&size=35&center=false&vCenter=false&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=false&vCenter=false&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
 <div style="display: inline_block"><br>
 <img align="center" alt="Tiko-VsCode" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 <img align="center" alt="Tiko-Python" height="55" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
