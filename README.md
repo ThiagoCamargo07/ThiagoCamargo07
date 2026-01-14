@@ -1,4 +1,4 @@
-## Ola, meu nome é Thiago Ferreria Camargo, tenho 21 anos de idade, sou Analista de T.I e criador de conteúdo de tecnologia e programação!!
+## Ola, meu nome é Thiago Ferreria Camargo, tenho 21 anos de idade, sou Analista de T.I e estudante de programação!!
 
 Analista de suporte com experiência em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Além disso, atuo também com desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
 
