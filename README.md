@@ -121,7 +121,7 @@ Meu objetivo é desenvolver soluções que reduzam tarefas repetitivas, aumentem
 
 - Engenharia e Arquitetura de Software
 
-- Ingles 
+- Inglês 
 
 ---
 
