@@ -160,15 +160,17 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 
 <p align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoCamargo07&theme=github_dark"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoCamargo07&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoCamargo07&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThiagoCamargo07&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoCamargo07&theme=github_dark&utcOffset=-3"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiagoCamargo07&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoCamargo07&theme=tokyonight"/>
 
 </p>
 
