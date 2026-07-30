@@ -108,7 +108,7 @@ Desenvolver soluções tecnológicas que automatizem processos, eliminando taref
 
 ✔ Git & GitHub
 
-✔ Suporte Técnico N1 / N2 / N3
+✔ Suporte Técnico
 
 ---
 
@@ -145,7 +145,7 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 
 ### 🚀 Serviços
 
-- 🖥️ Suporte Técnico (N1 e N2)
+- 🖥️ Suporte Técnico 
 - ⚙️ Automação de Processos repetitivos como envio de e-mails
 - 📄 Geração automática de relatórios e PDFs
 - 📊 Manipulação de planilhas (Excel e Libreoffice)
