@@ -29,6 +29,10 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 ---
 
+### 🎯 Objetivo
+
+Meu objetivo é desenvolver soluções que reduzam tarefas repetitivas, aumentem a produtividade e entreguem resultados eficientes, além de oferecer suporte técnico de qualidade para usuários e empresas.
+
 # 🚀 Tecnologias
 
 ### Linguagens
@@ -88,8 +92,6 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 <!-- Pesquisa -->
 <img align="center" alt="Pesquisa" height="42" width="42" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/search.svg"/>
 
-
-
 </p>
 
 ---
@@ -135,8 +137,22 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 🚀 Console de Suporte Técnico 
 
-
 ---
+
+# 💼 Serviços Freelance
+
+Além da minha atuação como Analista de TI, também realizo projetos freelancer, oferecendo soluções personalizadas para empresas, usuários e profissionais.
+
+### 🚀 Serviços
+
+- 🖥️ Suporte Técnico (N1 e N2)
+- ⚙️ Automação de Processos repetitivos como envio de e-mails
+- 📄 Geração automática de relatórios e PDFs
+- 📊 Automação de planilhas (Excel)
+- 🛠️ Manutenção e otimização de computadores
+- 🧹 Limpeza física de desktops e notebooks
+- 🌐 Configuração de redes e infraestrutura básica
+- 📡 Instalação e configuração de impressoras e periféricos
 
 # 📊 Estatísticas
 
