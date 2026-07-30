@@ -153,6 +153,8 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 - 🧹 Limpeza física de desktops e notebooks
 - 🌐 Configuração de redes e infraestrutura básica
 - 📡 Instalação e configuração de impressoras e periféricos
+ 
+--- 
 
 # 📊 Estatísticas
 
