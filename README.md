@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Thiago Camargo</h1>
+<h1 align="center">Olá, eu sou Thiago Camargo</h1>
 
 <h3 align="center">
 🐍 Python Automation Dev • IT Analyst • Bacharelando em Ciência da Computação
@@ -138,7 +138,7 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 Além da minha atuação como Analista de TI, também realizo projetos freelancer, oferecendo soluções personalizadas para empresas, usuários e profissionais.
 
-### 🚀 Serviços
+### Serviços
 
 - 🖥️ Suporte Técnico 
 - ⚙️ Automação de Processos repetitivos como envio de e-mails
