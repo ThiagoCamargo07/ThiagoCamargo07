@@ -20,10 +20,8 @@ Tenho grande interesse por:
 
 - 🤖 Automação de processos
 - 🐍 Desenvolvimento Python
-- 🖥️ Sistemas Desktop
 - 📊 IA Generativa
 - 🌐 Suporte N2 / N3
-
 
 Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que aumentem produtividade e resolvam problemas reais.
 
