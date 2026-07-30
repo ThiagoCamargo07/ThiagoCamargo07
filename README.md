@@ -208,7 +208,7 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
  
 ### ⭐ Observação Importante !
 
-Projetos profissionais estão como favoritos, os demais projetos são considerados acadêmicos.
+Meus projetos profissionais estão marcados como favoritos, os demais projetos são considerados acadêmicos.
 Não esqueça de conferir meus repositórios!
 
 # Obrigado pela visita ! 👨‍💻
