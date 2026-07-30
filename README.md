@@ -148,7 +148,7 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 - 🖥️ Suporte Técnico (N1 e N2)
 - ⚙️ Automação de Processos repetitivos como envio de e-mails
 - 📄 Geração automática de relatórios e PDFs
-- 📊 Automação de planilhas (Excel)
+- 📊 Manipulação de planilhas (Excel e Libreoffice)
 - 🛠️ Manutenção e otimização de computadores
 - 🧹 Limpeza física de desktops e notebooks
 - 🌐 Configuração de redes e infraestrutura básica
@@ -159,11 +159,17 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 # 📊 Estatísticas
 
 <p align="center">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCamargo07&layout=compact&langs_count=8&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiagoCamargo07&theme=github_dark" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagoCamargo07&theme=github_dark&utcOffset=-3" />
+
+</p>
+
+<p align="center">
+
+<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoCamargo07&theme=github_dark" />
+
 </p>
 
 ---
