@@ -12,7 +12,7 @@
 
 # 💻 Sobre mim
 
-Sou **Analista de TI** com experiência em suporte técnico, infraestrutura e resolução de problemas.
+Sou **Analista de TI** com experiência em suporte técnico, infraestrutura e desenvolvimento de sistemas voltados à automação.
 
 Atualmente estou direcionando minha carreira para **Desenvolvimento de Software com Python**, criando soluções voltadas para automação de processos, sistemas desktop e integrações.
 
@@ -29,9 +29,9 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 ---
 
-### 🎯 Objetivo
+## 🎯 Missão
 
-Meu objetivo é desenvolver soluções que reduzam tarefas repetitivas, aumentem a produtividade e entreguem resultados eficientes, além de oferecer suporte técnico de qualidade para usuários e empresas.
+Desenvolver soluções tecnológicas que automatizem processos, eliminem tarefas repetitivas e aumentem a produtividade de pessoas e empresas, oferecendo também suporte técnico com qualidade e foco na resolução de problemas.
 
 # 🚀 Tecnologias
 
