@@ -51,7 +51,7 @@ Desenvolver soluções tecnológicas que automatizem processos, eliminando taref
 
 ---
 
-### Bibliotecas mais usadas
+### Bibliotecas mais utilizadas
 
 <p>
   
@@ -114,10 +114,9 @@ Desenvolver soluções tecnológicas que automatizem processos, eliminando taref
 
 # 📚 Atualmente estudando
 
-
 - Matemática Computacional   
 
-- Automações com Python 
+- Automação com Python 
 
 - Engenharia e Arquitetura de Software
 
@@ -151,7 +150,7 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 - 📊 Manipulação de planilhas (Excel e Libreoffice)
 - 🛠️ Manutenção e otimização de computadores
 - 🧹 Limpeza física de desktops e notebooks
-- 🌐 Configuração de redes e infraestrutura básica
+- 🌐 Infraestrutura básica
 - 📡 Instalação e configuração de impressoras e periféricos
  
 --- 
@@ -210,9 +209,12 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 ---
 
 <div align="center">
+ 
+### Observação Importante 
 
-### Obrigado pela visita! 👨‍💻
+⭐ Projetos profissionais estão como favoritos, os demais projetos são considerados acadêmicos.
+Não esqueça de conferir meus repositórios!
 
-⭐ Não esqueça de conferir meus repositórios!
+## Obrigado pela visita! 👨‍💻
 
 </div>
