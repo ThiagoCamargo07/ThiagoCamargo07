@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Thiago Camargo</h1>
 
 <h3 align="center">
-🐍 Python Automation Dev • Analista de TI • Bacharelando em Ciência da Computação
+🐍 Python Automation Dev • IT Analyst • Bacharelando em Ciência da Computação
 </h3>
 
 <p align="center">
