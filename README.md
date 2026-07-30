@@ -31,7 +31,7 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 ## 🎯 Missão
 
-Desenvolver soluções tecnológicas que automatizem processos, eliminem tarefas repetitivas e aumentem a produtividade de pessoas e empresas, oferecendo também suporte técnico com qualidade e foco na resolução de problemas.
+Desenvolver soluções tecnológicas que automatizem processos, eliminando tarefas repetitivas e aumentando a produtividade de pessoas e empresas, oferecendo também suporte técnico com qualidade e foco na resolução de problemas.
 
 # 🚀 Tecnologias
 
