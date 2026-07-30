@@ -187,16 +187,6 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 
 ---
 
-# 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoCamargo07&theme=tokyonight">
-
-</div>
-
----
-
 # 📫 Contato
 
 <p>
