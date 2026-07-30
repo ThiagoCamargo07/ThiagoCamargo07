@@ -140,13 +140,13 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 # 📊 Estatísticas
 
-<div align="center">
+<p align="center">
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCamargo07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCamargo07&layout=compact&langs_count=8&theme=github_dark"/>
+</p>
 
 ---
 
