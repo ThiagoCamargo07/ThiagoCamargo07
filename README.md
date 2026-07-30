@@ -83,7 +83,7 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45">
 
-<img align="center" alt="ChatGPT" width="45" src="https://cdn.simpleicons.org/openai/ffffff" />
+<img align="center" alt="ChatGPT" width="45" src="https://cdn.simpleicons.org/openai" />
 
 <img align="center" alt="Search" width="45" src="https://cdn.simpleicons.org/google" />
 
