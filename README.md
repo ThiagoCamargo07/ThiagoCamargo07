@@ -83,9 +83,19 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45">
 
-<img align="center" alt="ChatGPT" width="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
+<!-- OpenAI -->
+<img align="center"
+     alt="OpenAI"
+     height="45"
+     width="45"
+     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" />
 
-<img align="center" alt="Pesquisar" width="45" src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/src/24/outline/magnifying-glass.svg" />
+<!-- Pesquisa -->
+<img align="center"
+     alt="Pesquisa"
+     height="45"
+     width="45"
+     src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/search.svg" />
 
 </p>
 
