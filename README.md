@@ -21,7 +21,7 @@ Tenho grande interesse por:
 - 🤖 Automação de processos
 - 🐍 Desenvolvimento Python
 - 🖥️ Sistemas Desktop
-- 📊 Manipulação com IA
+- 📊 IA Generativa
 - 🌐 Suporte N2 / N3
 
 
@@ -104,7 +104,7 @@ Desenvolver soluções tecnológicas que automatizem processos, eliminando taref
 
 ✔ Sistemas Desktop
 
-✔ Integração entre Sistemas
+✔ Manipulação com IA
 
 ✔ Git & GitHub
 
