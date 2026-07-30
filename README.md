@@ -105,18 +105,6 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 ✔ Integração entre Sistemas
 
-✔ APIs REST
-
-✔ Manipulação de PDFs
-
-✔ Automação de Planilhas
-
-✔ Envio Automático de E-mails
-
-✔ Web Scraping
-
-✔ Banco de Dados
-
 ✔ Git & GitHub
 
 ✔ Suporte Técnico N1 / N2
@@ -129,35 +117,24 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 - Algoritmos
 
-- FastAPI
+- Automações com Python 
 
-- Docker
-
-- SQL Avançado
-
-- Clean Code
-
-- Testes Automatizados
-
-- Arquitetura de Software
+- Engenharia e Arquitetura de Software
 
 ---
 
 # 📌 Projetos em Destaque
 
-🚀 Sistema de Automação de Relatórios
+🚀 Simulador missão Apollo 13
 
-🚀 Sistema Desktop em Python
+🚀 interface de automação gráfica 
 
-🚀 Gerador de PDFs
+🚀 Gerador/manipulador de PDFs
 
-🚀 Automação de E-mails
+🚀 Interface de automação de E-mails                          
 
-🚀 API REST em FastAPI
+🚀 Console de Suporte Técnico 
 
-🚀 Web Scraping
-
-🚀 Dashboard em Python
 
 ---
 
