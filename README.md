@@ -52,36 +52,30 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 ### Frameworks e Bibliotecas
 
 <p>
+  
+<img align="center" alt="Flask" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45">
+<img align="center" alt="Pandas" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45">
+<img align="center" alt="Matplotlib" width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45">
+<img align="center" alt="PyAutoGUI" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="45">
+<img align="center" alt="BeautifulSoup" width="45" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
+
+<img align="center" alt="Selenium" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+
 
 </p>
 
 ---
 
-### Banco de Dados
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45">
-
-</p>
 
 ---
 
 ### Ferramentas
 
 <p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45">
 
@@ -107,15 +101,14 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 ✔ Git & GitHub
 
-✔ Suporte Técnico N1 / N2
+✔ Suporte Técnico N1 / N2 / N3
 
 ---
 
 # 📚 Atualmente estudando
 
-- Estrutura de Dados
 
-- Algoritmos
+- Matemática Computacional  
 
 - Automações com Python 
 
