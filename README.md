@@ -21,11 +21,9 @@ Tenho grande interesse por:
 - 🤖 Automação de processos
 - 🐍 Desenvolvimento Python
 - 🖥️ Sistemas Desktop
-- 🌐 APIs REST
-- 📄 Manipulação de PDFs
-- 📊 Automação de relatórios
-- 📧 Integração de e-mails
-- 💾 Banco de Dados
+- 📊 Manipulação com IA
+- 🌐 Suporte N2 / N3
+
 
 Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que aumentem produtividade e resolvam problemas reais.
 
@@ -84,6 +82,10 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45">
+
+<img align="center" alt="ChatGPT" width="45" src="https://cdn.simpleicons.org/openai/ffffff" />
+
+<img align="center" alt="Search" width="45" src="https://cdn.simpleicons.org/google" />
 
 </p>
 
