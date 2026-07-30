@@ -72,6 +72,9 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 ### Ferramentas
 
 <p>
+  
+<img align="center" alt="Git" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
+  
 <img align="center" alt="GitHub" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
 <img align="center" alt="VS Code" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -81,9 +84,6 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 <img align="center" alt="Linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
 <img align="center" alt="Canva" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
-
-<!-- IA Generativa -->
-<img align="center" alt="Generative AI" height="45" width="45" src="https://cdn.simpleicons.org/huggingface/FCC624"/>
 
 <!-- Pesquisa -->
 <img align="center" alt="Pesquisa" height="42" width="42" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/search.svg"/>
