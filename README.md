@@ -49,21 +49,19 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 
 ---
 
-### Frameworks e Bibliotecas
+### Bibliotecas mais usadas
 
 <p>
   
-<img align="center" alt="Flask" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
+- Pyautogui
 
-<img align="center" alt="Pandas" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+- Selenium
 
-<img align="center" alt="Matplotlib" width="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/>
+- Beautifulsoup4
 
-<img align="center" alt="PyAutoGUI" width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>
+- Pandas
 
-<img align="center" alt="BeautifulSoup" width="45" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-
-<img align="center" alt="Selenium" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+- Matplotlib
 
 
 </p>
@@ -84,6 +82,8 @@ Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que a
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="45">
 
 </p>
 
