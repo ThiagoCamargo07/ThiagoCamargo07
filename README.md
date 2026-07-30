@@ -12,9 +12,9 @@
 
 # 💻 Sobre mim
 
-Sou **Analista de TI** com experiência em suporte técnico, infraestrutura e desenvolvimento de sistemas.
+Sou **Analista de TI** com experiência em suporte técnico, infraestrutura e desenvolvimento de sistemas desktop.
 
-Atualmente estou direcionando minha carreira para **Desenvolvimento de Software com Python**, criando soluções voltadas para automação de processos, sistemas desktop e integrações.
+Atualmente estou direcionando minha carreira para **Desenvolvimento de Software com Python**, criando soluções voltadas para automação de processos.
 
 Tenho grande interesse por:
 
