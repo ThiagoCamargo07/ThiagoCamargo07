@@ -96,11 +96,9 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 # 🎯 Especialidades
 
-✔ Desenvolvimento em Python
+✔ Desenvolvimento de Sistemas Desktop em Python
 
 ✔ Automação de Processos
-
-✔ Sistemas Desktop
 
 ✔ Manipulação com IA
 
