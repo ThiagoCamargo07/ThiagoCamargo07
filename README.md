@@ -1,23 +1,224 @@
-## Ola, meu nome é Thiago Ferreria Camargo, tenho 22 anos de idade, sou Analista de T.I e estudante de Ciências Da Computação, programação e Tecnologia !!
+<h1 align="center">Olá 👋, eu sou Thiago Camargo</h1>
 
-Analista de suporte com experiência em instalações e monitoramento de softwares e resolução de problemas técnicos por meio de soluções eficazes. Além disso, atuo também com desenvolvimento de softwares em Python, com foco na criação de sistemas desktop voltados à automação de processos, incluindo geração de relatórios, manipulação de PDFs, envio de e-mails e integrações diversas. Busco migrar minha carreira para a atuação plena como Desenvolvedor de Software.
+<h3 align="center">
+🐍 Python Automation Developer • Analista de TI • Bacharelando em Ciência da Computação
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=false&vCenter=false&width=1000&lines=Sejam+bem+vindos+ao+meu+perfil;fiquem+à+vontade!)](https://git.io/typing-svg)
-<div style="display: inline_block"><br>
-<img align="center" alt="Tiko-VsCode" height="45" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-<img align="center" alt="Tiko-Python" height="55" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Tiko-VsCode" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="center" alt="Tiko-VsCode" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Python+Automation+Developer;Desktop+Application+Developer;Back-end+Developer;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+# 💻 Sobre mim
+
+Sou **Analista de TI** com experiência em suporte técnico, infraestrutura e resolução de problemas.
+
+Atualmente estou direcionando minha carreira para **Desenvolvimento de Software com Python**, criando soluções voltadas para automação de processos, sistemas desktop e integrações.
+
+Tenho grande interesse por:
+
+- 🤖 Automação de processos
+- 🐍 Desenvolvimento Python
+- 🖥️ Sistemas Desktop
+- 🌐 APIs REST
+- 📄 Manipulação de PDFs
+- 📊 Automação de relatórios
+- 📧 Integração de e-mails
+- 💾 Banco de Dados
+
+Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que aumentem produtividade e resolvam problemas reais.
+
+---
+
+# 🚀 Tecnologias
+
+### Linguagens
+
+<p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45">
+
+</p>
+
+---
+
+### Frameworks e Bibliotecas
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="45">
+
+</p>
+
+---
+
+### Banco de Dados
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45">
+
+</p>
+
+---
+
+### Ferramentas
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="45">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45">
+
+</p>
+
+---
+
+# 🎯 Especialidades
+
+✔ Desenvolvimento em Python
+
+✔ Automação de Processos
+
+✔ Sistemas Desktop
+
+✔ Integração entre Sistemas
+
+✔ APIs REST
+
+✔ Manipulação de PDFs
+
+✔ Automação de Planilhas
+
+✔ Envio Automático de E-mails
+
+✔ Web Scraping
+
+✔ Banco de Dados
+
+✔ Git & GitHub
+
+✔ Suporte Técnico N1 / N2
+
+---
+
+# 📚 Atualmente estudando
+
+- Estrutura de Dados
+
+- Algoritmos
+
+- FastAPI
+
+- Docker
+
+- SQL Avançado
+
+- Clean Code
+
+- Testes Automatizados
+
+- Arquitetura de Software
+
+---
+
+# 📌 Projetos em Destaque
+
+🚀 Sistema de Automação de Relatórios
+
+🚀 Sistema Desktop em Python
+
+🚀 Gerador de PDFs
+
+🚀 Automação de E-mails
+
+🚀 API REST em FastAPI
+
+🚀 Web Scraping
+
+🚀 Dashboard em Python
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ThiagoCamargo07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCamargo07&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<img src="https://github.com/ThiagoCamargo07/ThiagoCamargo07/blob/main/aiii.gif" width="250px" alt="commit gif looping" /> <img src="https://github.com/ThiagoCamargo07/ThiagoCamargo07/blob/main/robot.gif" width="170px" alt="commit gif looping" /> <img src="https://github.com/ThiagoCamargo07/ThiagoCamargo07/blob/main/dronee.gif" width="200px" alt="commit gif looping" />
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC2azV80Eq8tQB3oqryag2YQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/tiko._gs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/tikogang_77" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.tiktok.com/@tikogang07" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href = "mailto:thifcamargo04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-camargo-7757142ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ThiagoCamargo07&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+---
+
+# 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagoCamargo07&theme=tokyonight">
+
+</div>
+
+---
+
+# 📫 Contato
+
+<p>
+
+<a href="mailto:thifcamargo04@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thiago-camargo-7757142ab/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Frase
+
+> "A melhor forma de prever o futuro é construí-lo."
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 👨‍💻
+
+⭐ Não esqueça de conferir meus repositórios!
+
+</div>
