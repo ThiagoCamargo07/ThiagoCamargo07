@@ -14,16 +14,14 @@
 
 Sou **Analista de TI** com experiência em suporte técnico, infraestrutura e desenvolvimento de sistemas desktop.
 
-Atualmente estou direcionando minha carreira para **Desenvolvimento de Software com Python**, criando soluções voltadas para automação de processos.
-
-Tenho grande interesse por:
+Tenho grande interesse profissional por:
 
 - 🤖 Automação de processos
 - 🐍 Desenvolvimento Python
 - 📊 IA Generativa
 - 🌐 Suporte N2 / N3
 
-Meu objetivo é atuar como **Desenvolvedor Python**, construindo softwares que aumentem produtividade e resolvam problemas reais.
+Mas, meu objetivo mesmo é atuar como **Desenvolvedor Python**, construindo softwares que aumentem produtividade e resolvam problemas reais.
 
 ---
 
