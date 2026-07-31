@@ -16,8 +16,8 @@ Sou **Analista de TI** com experiência em suporte técnico, infraestrutura e de
 
 Tenho grande interesse profissional por:
 
-- 🤖 Automação de processos
-- 🐍 Desenvolvimento Python
+- 🤖 Automação de processos 
+- 🐍 Desenvolvimento com Python
 - 📊 IA Generativa
 - 🌐 Suporte N2 / N3
 
