@@ -198,7 +198,7 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 
 # 💡 Frase
 
-> "A melhor forma de prever o futuro é construí-lo."
+> "Apenas faça oque deve ser feito."
 
 ---
 
