@@ -198,7 +198,7 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 
 # 💡 Frase
 
-> "Apenas faça oque deve ser feito."
+> "No risk, no story."
 
 ---
 
