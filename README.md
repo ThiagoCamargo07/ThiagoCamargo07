@@ -16,20 +16,20 @@ Sou **Analista de TI** com experiência em suporte técnico, infraestrutura e de
 
 Tenho grande interesse profissional por:
 
-- 🤖 Automação de processos 
-- 🐍 Desenvolvimento com Python
-- 📊 IA Generativa
-- 🌐 Suporte N2 / N3
+-  Automação de processos 
+-  Desenvolvimento com Python
+-  IA Generativa
+-  Suporte N2 / N3
 
 Mas, meu objetivo mesmo é atuar como **Desenvolvedor Python**, construindo softwares que aumentem produtividade e resolvam problemas reais.
 
 ---
 
-## 🎯 Missão
+##  Missão
 
 Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas repetitivas e aumente a produtividade de pessoas e empresas, oferecendo também suporte técnico com qualidade e foco na resolução de problemas.
 
-# 🚀 Tecnologias
+#  Tecnologias
 
 ### Linguagens
 
@@ -92,7 +92,7 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 ---
 
-# 🎯 Especialidades
+#  Especialidades
 
 ✔ Desenvolvimento de Sistemas Desktop em Python
 
@@ -106,7 +106,7 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 ---
 
-# 📚 Atualmente estudando
+#  Atualmente estudando
 
 - Matemática Computacional   
 
@@ -120,32 +120,32 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 # 📌 Projetos em Destaque
 
-🚀 Simulador missão Apollo 13
+ Simulador missão Apollo 13
 
-🚀 interface de automação gráfica 
+ interface de automação gráfica 
 
-🚀 Gerador/manipulador de PDFs
+ Gerador/manipulador de PDFs
 
-🚀 Interface de automação de E-mails                          
+ Interface de automação de E-mails                          
 
-🚀 Console de Suporte Técnico 
+ Console de Suporte Técnico 
 
 ---
 
-# 💼 Serviços Freelance
+#  Serviços Freelance
 
 Além da minha atuação como Analista de TI, também realizo projetos freelancer, oferecendo soluções personalizadas para empresas, usuários e profissionais.
 
 ### Serviços
 
-- 🖥️ Suporte Técnico 
-- ⚙️ Automação de Processos repetitivos como envio de e-mails
-- 📄 Geração automática de relatórios e PDFs
-- 📊 Manipulação de planilhas (Excel e Libreoffice)
-- 🛠️ Manutenção e otimização de computadores
-- 🧹 Limpeza física de desktops e notebooks
-- 🌐 Infraestrutura básica
-- 📡 Instalação e configuração de impressoras e periféricos
+-  Suporte Técnico 
+-  Automação de Processos repetitivos como envio de e-mails
+-  Geração automática de relatórios e PDFs
+-  Manipulação de planilhas (Excel e Libreoffice)
+-  Manutenção e otimização de computadores
+-  Limpeza física de desktops e notebooks
+-  Infraestrutura básica
+-  Instalação e configuração de impressoras e periféricos
  
 --- 
 
@@ -170,7 +170,7 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 
 ---
 
-# 🔥 Sequência de Contribuições
+#  Sequência de Contribuições
 
 <div align="center">
 
@@ -204,11 +204,11 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 
 <div align="center">
  
-### ⭐ Observação Importante !
+###  Observação Importante !
 
 Meus projetos profissionais estão marcados como favoritos, os demais projetos são considerados acadêmicos.
 Não esqueça de conferir meus repositórios!
 
-# Obrigado pela visita ! 👨‍💻
+# Obrigado pela visita ! 
 
 </div>
