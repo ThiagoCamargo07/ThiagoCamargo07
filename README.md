@@ -132,22 +132,6 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 ---
 
-#  Serviços Freelance
-
-Além da minha atuação como Analista de TI, também realizo projetos freelancer, oferecendo soluções personalizadas para empresas, usuários e profissionais.
-
-### Serviços
-
--  Suporte Técnico 
--  Automação de Processos repetitivos como envio de e-mails
--  Geração automática de relatórios e PDFs
--  Manipulação de planilhas (Excel e Libreoffice)
--  Manutenção e otimização de computadores
--  Limpeza física de desktops e notebooks
--  Infraestrutura básica
--  Instalação e configuração de impressoras e periféricos
- 
---- 
 
 #  Estatísticas
 
