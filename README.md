@@ -198,17 +198,16 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 
 # 💡 Frase
 
-> "No risk, no story."
+> "Se você construir hábitos do sucesso, fará do sucesso um habito!"
 
 ---
 
 <div align="center">
  
-###  Observação Importante !
+###  Observação Importante.
 
 Meus projetos profissionais estão marcados como favoritos, os demais projetos são considerados acadêmicos.
-Não esqueça de conferir meus repositórios!
 
-# Obrigado pela visita ! 
+# Obrigado pela visita! 
 
 </div>
