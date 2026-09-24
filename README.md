@@ -10,7 +10,7 @@
 
 ---
 
-# 💻 Sobre mim
+#  Sobre mim
 
 Sou **Analista de TI** com experiência em suporte técnico, infraestrutura e desenvolvimento de sistemas desktop.
 
@@ -149,7 +149,7 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
  
 --- 
 
-# 📊 Estatísticas
+#  Estatísticas
 
 <p align="center">
 
@@ -180,7 +180,7 @@ Além da minha atuação como Analista de TI, também realizo projetos freelance
 
 ---
 
-# 📫 Contato
+#  Contato
 
 <p>
 
