@@ -108,7 +108,7 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 #  Atualmente estudando
 
-- Matemática Computacional   
+- Ciências da Computação    
 
 - Automação com Python 
 
