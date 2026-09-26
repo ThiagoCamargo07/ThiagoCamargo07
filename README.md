@@ -94,15 +94,15 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 #  Especialidades
 
-✔ Desenvolvimento de Sistemas Desktop em Python
+- Desenvolvimento de Sistemas Desktop em Python
 
-✔ Automação de Processos
+- Automação de Processos
 
-✔ Manipulação com IA
+- Manipulação com IA
 
-✔ Git & GitHub
+- Git & GitHub
 
-✔ Suporte Técnico
+- Suporte Técnico
 
 ---
 
@@ -154,7 +154,7 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 ---
 
-#  Sequência de Contribuições
+# Sequência de Contribuições
 
 <div align="center">
 
@@ -180,7 +180,7 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 ---
 
-# 💡 Frase
+# Frase
 
 > "Se você construir hábitos do sucesso, fará do sucesso um habito!"
 
