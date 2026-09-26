@@ -120,15 +120,15 @@ Desenvolver soluções tecnológicas que automatizem processos, elimine tarefas 
 
 # 📌 Projetos em Destaque
 
- Simulador missão Apollo 13
+- Simulador missão Apollo 13
 
- interface de automação gráfica 
+- interface de automação gráfica 
 
- Gerador/manipulador de PDFs
+- Gerador/manipulador de PDFs
 
- Interface de automação de E-mails                          
+- Interface de automação de E-mails                          
 
- Console de Suporte Técnico 
+- Console de Suporte Técnico 
 
 ---
 
